@@ -7,8 +7,13 @@ To Play Vertigo, you must download the following:
 4. UnityPlayer.dll
 5. Vertigo.exe
 
-The best way to do this is to Press <Code>, download the zip,
-extract the files from the zip, then click on Vertigo.exe.
+The best way to do this is to 
+1. Press <Code> on the github page, 
+2. download the zip, most likely will go to downloads folder,
+3. extract all from the zip file by right clicking on the folder and pressing "extract all", 
+4. A new folder that is not zipped will be created. Enter that folder and 
+click on Vertigo.exe to play.
+
 
 CONTROLS
 WASD to move.
@@ -33,5 +38,10 @@ Level 4 is in the bottom right corner. The objective is to kill the big ghost, w
 spawns smaller ghosts. As the boss's health decreases, its color will get more red, 
 it will increase in speed, and it will spawn ghosts more often. Beware of the snowball
 recharge.
+
+Last Note, while playing there will be a file called game.game which saves your current
+progress. Do NOT modify this file, if you do and the game spawns the player in a random
+location and you are unable to play. You will have to delete the game.game file, and
+the settings will reset on your next play.
  
 
